@@ -1,7 +1,7 @@
-**Phishing Detection System with Explainable AI (XAI)
-**
-**Project Overview
-**
+**Phishing Detection System with Explainable AI (XAI)**
+
+
+**Project Overview**
 This project implements a hybrid machine learning framework to detect phishing URLs with high accuracy and transparency. The system evaluates URLs using two primary models: a Logistic Regression baseline and an optimized Random Forest classifier. By integrating Explainable AI (XAI), the system doesn't just block a site—it explains why based on live structural and lexical analysis.
 
 **Key Features**
@@ -16,7 +16,7 @@ Visual Evidence: Comprehensive plots including ROC curves, confusion matrices, a
 
 Installation and Setup
 
-1. Backend Setup (phishing-backend)
+1. **Backend Setup (phishing-backend)**
 
 Navigate to directory: cd phishing-backend
 
@@ -26,7 +26,7 @@ Run the Final Application: Execute python app_final.py
 
 Note: Ensure lr_model.pkl and rf_model.pkl are in this folder for the app to function.
 
-2. Frontend Setup (phishing-frontend)
+2. **Frontend Setup (phishing-frontend)**
 
 Navigate to directory: cd phishing-frontend
 
@@ -66,6 +66,6 @@ Input a URL to see the comparison between the baseline and optimized results, al
 
 Author & Credits
 
-Student: Gursevak Singh (SID: 20066800)
+**Student: Gursevak Singh (SID: 20066800)**
 
-Supervisor: Dr. Masum Billah
+**Supervisor: Dr. Masum Billah**
